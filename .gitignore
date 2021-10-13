@@ -105,6 +105,6 @@ dist
 
 .vercel
 .now
-.env.local
+# .env.local
 
 .DS_Store
