@@ -1,24 +1,19 @@
 {
-  "name": "next-auth-example",
+  "name": "remote-office-task",
   "version": "0.0.0",
   "private": true,
-  "description": "An example project for NextAuth.js",
-  "repository": "https://github.com/nextauthjs/next-auth-example.git",
+  "description": "A test project of NextAuth.js",
+  "repository": "https://github.com/rafian-git/NextAuth.git",
   "bugs": {
-    "url": "https://github.com/nextauthjs/next-auth/issues"
-  },
-  "homepage": "http://next-auth-example.now.sh",
+    "url": "https://github.com/rafian-git/NextAuth/issues"
+  }, 
   "main": "",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "author": "Iain Collins <me@iaincollins.com>",
-  "contributors": [
-    "Balázs Orbán <info@balazsorban.com>"
-  ],
-  "license": "ISC",
+  "author": "rafian",  
   "dependencies": {
     "next": "^11.0.0",
     "next-auth": "latest",
