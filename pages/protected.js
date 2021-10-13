@@ -28,6 +28,10 @@ export default function Page () {
     <Layout>
       <h1>Protected Page</h1>
       <p><strong>{content || "\u00a0"}</strong></p>
+   
+    <a href="/api/auth/signout">
+   <button class="btn" >Sign out</button>
+</a>
     </Layout>
   )
 }
